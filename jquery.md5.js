@@ -20,9 +20,9 @@
 /*jslint bitwise: true */
 /*global unescape, jQuery */
 
-(function ($) {
+(function () {
     'use strict';
-
+    var $ = require('jquery');
     /*
     * Add integers, wrapping at 2^32. This uses 16-bit operations internally
     * to work around bugs in some JS interpreters.
@@ -266,4 +266,4 @@
         }
     };
     
-}(typeof jQuery === 'function' ? jQuery : this));
+}());
