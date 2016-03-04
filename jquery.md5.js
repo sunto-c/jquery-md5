@@ -1,5 +1,5 @@
 /*
- * jQuery MD5 Plugin 1.2.1
+ * jQuery MD5 Plugin 1.2.2
  * https://github.com/blueimp/jQuery-MD5
  *
  * Copyright 2010, Sebastian Tschan
