@@ -5,6 +5,6 @@
     "version": "1.2.2",
     "description": "jQuery-MD5",
     "dependencies": {
-        "jquery": ">=1.6"
+        "jquery": ">=1.6" 
     }
 }
