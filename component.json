@@ -4,7 +4,7 @@
     "repos": "https://github.com/placemarker/jQuery-MD5",
     "version": "1.2.2",
     "description": "jQuery-MD5",
-    "dependencies": {
-        "jquery": ">=1.6" 
-    }
+    "dependencies": [
+      "jquery@1.9.1"
+    ]
 }
